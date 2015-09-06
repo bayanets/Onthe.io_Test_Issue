@@ -1,0 +1,4 @@
+# Ignored Folders #
+################
+/.idea/*
+/node_modules/*
